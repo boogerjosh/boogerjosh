@@ -3,7 +3,7 @@
 A frontend engineer based in Jakarta. I studied civil engineering, then took a sharp turn into software — and honestly, that plot twist stuck. These days I build thoughtful interfaces and dependable web apps, and I still love learning new things.
 
 - 📫 How to reach me: [joshsmtpng19@gmail.com](mailto:joshsmtpng19@gmail.com)
-- 🎨 My personal website: [https://josuasimatupang.com](https://josuasimatupang.com)
+- 🎨 My personal website: [[https://josuasimatupang.com](https://josuasimatupang.joshsmtpng19.workers.dev/)](https://josuasimatupang.joshsmtpng19.workers.dev/)
 - ⚡ Fun fact:
     - Civil engineering grad who now ships React for a living (life is weird like that)
     - Currently a Software Engineer at Synergy, working on AI-powered products used by 300+ advisers
