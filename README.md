@@ -3,12 +3,11 @@
 A frontend engineer based in Jakarta. I studied civil engineering, then took a sharp turn into software — and honestly, that plot twist stuck. These days I build thoughtful interfaces and dependable web apps, and I still love learning new things.
 
 - 📫 How to reach me: [joshsmtpng19@gmail.com](mailto:joshsmtpng19@gmail.com)
-- 🎨 My personal website: [[https://josuasimatupang.com](https://josuasimatupang.joshsmtpng19.workers.dev/)](https://josuasimatupang.joshsmtpng19.workers.dev/)
 - ⚡ Fun fact:
     - Civil engineering grad who now ships React for a living (life is weird like that)
     - Currently a Software Engineer at Synergy, working on AI-powered products used by 300+ advisers
     - Builds for web and mobile — React, Next.js, Vue, and a bit of React Native
-    - Still trying to love backend as much as frontend (fingers crossed I’ll get there ASAP 😁)
+    - Still trying to love backend as much as frontend
 
 ### Tech Stack
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img align="left" alt="JavaScript" title="JavaScript" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" /></a>
@@ -26,13 +25,3 @@ A frontend engineer based in Jakarta. I studied civil engineering, then took a s
 
   <br>
   <br>
-
-## My Statistics
-
-<br/>
-<p align="left">
-  <a href="https://github.com/boogerjosh">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=boogerjosh&layout=compact&langs_count=8&theme=algolia&custom_title=My%20Programming%20Languages"/>
-  </a>
-</p>
-<br>
